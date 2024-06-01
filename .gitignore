@@ -26,4 +26,5 @@
 /bin/Debug/net7.0/CLITaskManager.pdb
 /obj/Debug/net7.0/CLITaskManager.pdb
 /bin/Debug/net7.0/CLITaskManager.runtimeconfig.json
-/bin/
+/bin/Debug/net8.0/
+/obj/Debug/net8.0/
