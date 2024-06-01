@@ -72,6 +72,7 @@ class Program
         {
             for (int j = 0; j < lists[i].Count; j++)
             {
+                Console.WriteLine();
                 Console.Write(String.Format("{0,30}", lists[i][j].ProcessName) + " | ");
                 Console.Write(String.Format("{0,10:0.0}", (double)lists[i][j].WorkingSet64/1024/1024) + " Mb |");
                 //Console.Write(String.Format("{0,10:0.0}", (double)lists[i][j].Threads[0].) + " % |");
